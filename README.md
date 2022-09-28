@@ -1,4 +1,4 @@
-# Project
+# Projects
 Here are some projects related to data science and analytics that i have created so far,
 1. [Identifying Customer Segments and Purchasing Patterns in Retail Industry (Superstore)](https://github.com/titods/Identifying-Customer-Segments-and-Purchasing-Patterns-in-Retail-Industry-Superstore-)
 2. [Fraud Detection using Supervised Machine Learning in Automobile Insurance Industry](https://github.com/titods/Fraud-Detection-using-Supervised-Machine-Learning-in-Automobile-Insurance-Industry)
