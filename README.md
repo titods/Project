@@ -2,7 +2,7 @@
 
 Hello!:wave::smile:
 
-Welcome to my projects' repository. These are my projects related to Data Science and Analytics
+Welcome to my portofolio projects' repository. These are my projects related to Data Science and Analytics
 | No | Project Name | GitHub | Description |
 | - | - | :-: | - |
 | 1. | Predicting Boston House Prices using Linear Regression Techniques | [Link](https://github.com/titods/Predicting-Boston-House-Prices-using-Linear-Regression-Techniques) | ML using Linear Regression |
